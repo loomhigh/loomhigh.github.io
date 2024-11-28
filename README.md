@@ -1,4 +1,4 @@
-## PLUG (Perth Linux User Group) website
+## draft loomhigh website
 
 ### Development
 
@@ -12,17 +12,10 @@ This is a [Hugo](https://gohugo.io/) site built to run on [GitHub Pages](https:/
 
 #### Migration
 
-All current pages that are currently on plug.org.au should be converted to markdown and added to this site.
-
-There's a github task at https://github.com/plugorgau/website/issues/4
-to track the progress.
+Initially forked from the Perth Linux User Group guthub repo. Still in the process of converting it to my devious purposes
 
 As some of the html used on the current website is non standard,
 running a html -> markdown task gives unsatisfactory results.
-
-For the pages I've done so far I found
-https://domchristie.github.io/to-markdown/
-useful.
 
 #### Running Locally
 
