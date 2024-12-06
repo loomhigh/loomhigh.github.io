@@ -1,4 +1,5 @@
-## draft loomhigh website
+## Draft loomhigh website
+Forked from the Perth Linux User Group website. Being adjusted so that it can be used as the basis of a personal website, and to create a template for future basic sites.
 
 ### Development
 
