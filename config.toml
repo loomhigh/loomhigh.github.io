@@ -9,8 +9,8 @@ enableRobotsTXT = true
 [params]
 github_username = "loomhigh223555"
 
-[markup.goldmark.renderer]
-unsafe = true
+#[markup.goldmark.renderer]
+#unsafe = true
 
-[permalinks]
-minutes = "/events/committee/:year/:month-:day/"
+#[permalinks]
+#minutes = "/events/committee/:year/:month-:day/"
