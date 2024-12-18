@@ -1,5 +1,5 @@
 title = "Loomhigh"
-baseURL = "http://www.loomhigh.com/"
+baseURL = "http://loomhigh.github.io"
 languageCode = "en-au"
 disablePathToLower = true
 paginate = 50
