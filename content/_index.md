@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-Perth Linux Users Group.
+Hi I am Loomhigh this is a test
 
 We are a not-for-profit association for anyone interested in Unix, Linux, Free Software, Open Source software & Open Technology. We have many members all over Perth and Western Australia.
 
