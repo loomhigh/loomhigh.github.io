@@ -11,5 +11,5 @@ Here are attempts to turn my meandering and misc-directed life into useful instr
 [Linux Tutorials](linux.md)
 > anything Linux, possibly even GNU/Linux whatever that means. I am by no means good with it, but hopefully that just means I can make digestable content
 
-[Other Tutorials](misc.md)
-> Random instructions for the random individual that I am.
+[Campaign Resources](campaign.md)
+> tools, resources, and instructions for advocating your interests, and running grassroots groups.
