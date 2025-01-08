@@ -1,7 +1,7 @@
 {{- $link := .Destination }}
 {{- $url := urls.Parse $link }}
 {{- $isRemote := $url.IsAbs }}
-{{- $hasSubfolder := strings.Count $url.Path "/"}}
+{{- $hasSubfolder := gt (strings.Count $url.Path "/") 0 }}
 {{- if and (not $isRemote) (not $hasSubfolder) (strings.HasSuffix $url.Path ".md") }}
   {{- $link = relref .Page $link }}
 {{- end -}}
