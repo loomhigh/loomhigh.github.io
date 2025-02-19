@@ -3,7 +3,7 @@ title: campaign
 ---
 ⚠️ This Article is Incomplete
 
-### what is here?
+### What is here?
 
 Within this section are all the resources I've made for organising and campaigning as cheaply and reliably as possible.
 
@@ -71,21 +71,20 @@ You will likely lose most battles you fight, but if no one even tries, then you 
 
 #### Online Safety Amendment
 Online safety bill met highly publicised criticism, and there were a lot of good reasons why. As pointed out in the submission by ARC[^9] blanket bans social media for youth would only move young people towards more obscure places on the internet.  
-On a personal level, Social media is one factor that sublimented the small social circles I had growing up in a remote mining town. This sentiment was common especially in the senate committee submissions by youth and minority oriented groups. Here is an example, a submission by [Pride in Swan](https://prideinswan.org/):  
-> For many vulnerable youth, particularly those from the LGBTIQA+SB community, social
-media is far more than a digital pastime, it is a critical lifeline. It is often the only way they
-can connect with others who share their experiences, access affirming spaces, and find
-support networks that validate their identities.
+On a personal level, Social media is one factor that sublimented the small social circles I had growing up in a remote mining town. This sentiment was common especially by youth and minority oriented groups. [6 News](https://www.aph.gov.au/DocumentStore.ashx?id=20ffc398-fb3a-47cf-890b-20d2ec5c6c38&subId=770739) explained this idea best:
+> Marginalised young people who may feel safe in an online community (including those who may
+not feel safe at home), teens in remote parts of our nation who have found friends online, and
+those who have built up important relationships and friendships online all benefit.
 
 #### Government isn't a beast, but a battleground
 
 When we look at examples of government action, we see two sides of them. One side is your NSA and Guantanimo Bay; your corporate bailouts and big sellouts. Books like ++Manufacturing Consent++[^1] and ++Dark Money++[^2] illustrate how these institutions have been built, maintained, and used at the beheast of rich and powerful groups driven to maintain and strengthen their position at the top of the material hierarchy. 
 
-What these types of books brush on, and is especially pointed out in ++The Big Myth++[^3], is that these were to some degree contested events. Every time action was taken at the expense of the majority of people, communities resisted that action. For over a century, every remotely decent policy made by government is a result of advocacy by grassroots groups. By far the biggest is unions, with the creation the weekend and the 8 hour day in many countries, in some countries, far far more.
+What these types of books brush on, and is especially revealed in ++The Big Myth++[^3], is that these were contested events. Every time action was taken at the expense of the majority, communities resisted. For over a century, every remotely decent policy made by government is a result of advocacy by grassroots groups. By far the biggest is unions, with the creation the weekend and the 8 hour day in many countries, and in some countries, far far more.
 
-Government is not an entity making decisions for us, it is where the battle between community and oligarchy is fought. If we truly want Free and Open Source Software to exist we need to be there in the trenches with the wider community of people out there working hard for a world where we can reach our fullest potential in the ways *we* see fit.
+Government is not an entity making decisions for us, it is where the battle between community and oligarchy is fought. If we truly want Free and Open Source Software to exist we need to be there in the trenches with other communities of people working to reach our fullest potential in the ways *we* see fit.
 
-That is why this section exists, to help us do that.
+That is why this section exists, to help us accomplish that.
 
 [^1]: By Edward S Herman and Noam Chomsky (ISBN	0-375-71449-9), a book discussing the connection between media conglomerates, Government, and Corporate interests. you can read a (still very lengthy) excerpt of that book's context [here](https://chomsky.info/consent01/), [Al Gazeera](https://youtu.be/34LGPIXvU5M?si=8H_oYxB-bwY20AcG) also released a short animation for those who lack the willpower needed to read this stuff.
 
@@ -95,7 +94,7 @@ That is why this section exists, to help us do that.
 
 [^4]: [Canonical](https://en.wikipedia.org/wiki/Canonical_(company)) is a private computer software company that is the primary developer of Ubuntu, a popular distribution of Linux. according to [w3techs](https://w3techs.com/technologies/details/os-linux) it is the most popular identifiable Linux distribution that websites run on.
 
-[^5]: Probably needing no footnote, Valve is the largest video game company in the world. They started by developing video games, most notably the half life series, but have primarily garnered power through absolutely dominating the Video Game distribution market through Steam. Within the past few years, Valve has begun succeeding in the gaming hardware market through the Steam Deck, who's linux-based SteamOS looks to compete with Windows as a gaming PC operating system.
+[^5]: Probably needing no footnote, Valve is one of the largest video game companies in the world. They started by developing video games, most notably the Half Life games, but have primarily garnered power through domination of the distribution market with Steam. Within the past few years, Valve has leaned into the gaming hardware market by releasing the Steam Deck, who's linux-based SteamOS may compete with Windows as a gaming PC operating system in the near future.
 
 [^6]: PostmarketOS is a project to bring mainline (non-android) Linux to phones. They have already bought support to dozens of devices, but the vast majority still lack suitable support, and a majority of that majority have no support at all.
 
