@@ -19,10 +19,6 @@ Each is linked to a personal project file, which is private and for my own refer
 
 >A poetic recount of Pathet Lao Leader Singapo's escape from prison in 1960. Its been a while since I have made a video in this format, so its been in the backburner for a while.
 
-#### [Carr Boyd the Qld Rascal](Carr_Boyd_QLD.md)
-
->I remember reading something about him in the book "Kings in Grass Castles" but do not remember the details. Might get to it in the distant future, might not
-
 #### [Stoicist Wags School](Stoicist_Wags_School.md)
 
 >Small skit where someone uses stoic philosophy to justify avoiding homework
