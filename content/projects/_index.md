@@ -21,10 +21,14 @@ Each is linked to a personal project file, which is private and for my own refer
 
 #### [Stoicist Wags School](Stoicist_Wags_School.md)
 
->Small skit where someone uses stoic philosophy to justify avoiding homework
+>Small skit where someone uses stoic philosophy to justify avoiding homework 
 
 #### [People, Power, Change](People_Power_Change.md)
 
 > Summarizing all my notes and learning from the book "People, Power, Change" 
+
+#### [William Napier Clark](William_Napier_Clark.md)
+
+> old guy in WA's past
 
 #### 
