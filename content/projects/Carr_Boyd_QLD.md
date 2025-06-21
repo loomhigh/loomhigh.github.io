@@ -1,0 +1,1 @@
+>I remember reading something about him in the book "Kings in Grass Castles" but do not remember the details. Might get to it in the distant future, might not

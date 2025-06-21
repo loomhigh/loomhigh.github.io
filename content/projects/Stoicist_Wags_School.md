@@ -1,0 +1,1 @@
+>Small skit where someone uses stoic philosophy to justify avoiding homework
