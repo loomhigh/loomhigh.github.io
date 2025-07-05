@@ -30,7 +30,7 @@ jobs:
         run: sudo snap install --channel=extended/stable hugo
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v2
+        uses: actions/configure-pages@v4
       - name: Configure git identity
         run: |
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
