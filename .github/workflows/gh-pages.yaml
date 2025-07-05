@@ -25,12 +25,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Install Hugo
         run: sudo snap install --channel=extended/stable hugo
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v5
       - name: Configure git identity
         run: |
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
