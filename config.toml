@@ -2,7 +2,7 @@ title = "Loomhigh"
 baseURL = "http://loomhigh.github.io"
 languageCode = "en-au"
 disablePathToLower = true
-paginate = 50
+pagerSize = 50
 enableGitInfo = true
 enableRobotsTXT = true
 
