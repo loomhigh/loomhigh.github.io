@@ -78,7 +78,7 @@ those who have built up important relationships and friendships online all benef
 
 But why did the government try this amendment?
 
-#### Government isn't a beast, but a battleground
+#### Government isn't a beast, but a battleground 
 
 When we look at examples of government action, we see two sides of them. One side is your NSA and Guantánamo Bay; your corporate bailouts and big sellouts. Books like ++Manufacturing Consent++[^1] and ++Dark Money++[^2] illustrate how these institutions have been built, maintained, and used at the behest of rich and powerful groups driven to maintain and strengthen their position at the top of the material hierarchy. 
 
