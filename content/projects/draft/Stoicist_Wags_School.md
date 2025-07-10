@@ -8,8 +8,6 @@ Characters:
 - Stoicist, someone who is well read in the phiolosphy, but it entirely motivated by their desire not to do work.
 - Straight man: stressed university student who does not want to do any work.
 
-
-
 **scene ideas**
 - classic uni sitting on a lawn with racially diverse group of people discussing group work.
 - "If we don't get our assignment done we could fail class Zeno!" "Silly things like test scores don't matter. They are just the material for virtue to act upon"
