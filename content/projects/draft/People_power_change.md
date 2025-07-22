@@ -4,8 +4,8 @@ People, Power, Change
 
 
 ## Emotion, Values, Leadership 
-
-[^1] Decisions are based on value judgements which requires <mark>emotional information</mark>.
+<!--Page 60-->
+ Decisions are based on value judgements which requires <mark>emotional information</mark>.
 - Some emotions `enable` intention, mindfulness, and urgency
 - some emotions `inhibit` intention, mindfulness, and agency.
 
@@ -16,6 +16,7 @@ Emotion, even negatives like anxiety, breaks habit. Consistency bias "It's alway
 > EMOTION: MOTIVATES, BREAKS INERTIA, OVEROMES BIAS.
 
 ### Urgency and Anger
+<!--Page 63-->
 
 The job of a leader in any movement is to activate people's need for urgent and intentional action, even when there is no apparent urgency and no clear conscious action.
 
@@ -38,3 +39,20 @@ Actions that cause outrage:
 Regardless of how legitimate these actions appear to be, they will cause `outrage.`
 
 Percieved destruction of values, moral traditions, and dignity are sources of anger that can motivate action
+
+>`I have yet to really put these theories in action. If I do, I will add the example and how it went in practice here`
+
+## Public Narrative
+> <b> Why me? Why us? Why now? </b>
+
+Everyones favorite part about politics, and what most people see it all as: Stories.
+
+The reality is that people are far more likely to get with the program if they <i>"get"</i> you, the programmer.
+
+You need to be able to tell a story of self that allows people to *"get"* you by sharing moments of *`Hurt` (why you care)* and moments of *`Hope` (why you can)* along with the `Values` motivating your response.
+
+Recall moments shared with the audience of `Hurt` and `Hope` and how they were responded to in a way that expresses shared `Values` 
+
+Tell a story of accessing sources of courage to transform a moment of <code style="color : brown">Disruptive Threat</code> from a source of fear to an engaging challenge. <code style="color : brown">Thoughtless Reaction </code> into <code style="color : aqua">Mindful Response</code>.
+
+> A narrative like this produces the capacity to respond conciously to loss, difference, domination, and change. AKA: The actions that cause outrage.
