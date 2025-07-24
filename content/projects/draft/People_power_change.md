@@ -2,46 +2,6 @@ People, Power, Change
 ---
 > Summarizing all my notes and learning from the book "People, Power, Change" by Marshall Ganz. 
 
-
-## Emotion, Values, Leadership 
-<!--Page 60-->
- Decisions are based on value judgements which requires <mark>emotional information</mark>.
-- Some emotions `enable` intention, mindfulness, and urgency
-- some emotions `inhibit` intention, mindfulness, and agency.
-
-Leaders goal is enabling others to be `motivated` enough by a disruption to result in `action` and make that action ` mindful` not `reactionary`.
-
-Emotion, even negatives like anxiety, breaks habit. Consistency bias "It's always worked this way" and apathy "nothing we do works anyway" are disrupted by emotional shock.
-
-> EMOTION: MOTIVATES, BREAKS INERTIA, OVEROMES BIAS.
-
-### Urgency and Anger
-<!--Page 63-->
-
-The job of a leader in any movement is to activate people's need for urgent and intentional action, even when there is no apparent urgency and no clear conscious action.
-
-> this is done by pointing out contradictions in shared assumptions on how the world is, **agitation.**
-
-Urgency establishes **priorities**. The two types of urgency are:
-- URGENCY OF NEED: made when things are so bad that action is needed **now**
-- URGENCY OF OPPORTUNITY: Made with **deadlines**. when you need to do something by a certain time for it to have an effect.
-
-Anger counters Apathy and inertia via outrage.
-> The world as it is rubbing up against the world as it should be.
-
-Actions that cause outrage:
-- Domination
-- Discrimination
-- Bullying
-- Violation
-- Neglect  
-
-Regardless of how legitimate these actions appear to be, they will cause `outrage.`
-
-Percieved destruction of values, moral traditions, and dignity are sources of anger that can motivate action
-
->`I have yet to really put these theories in action. If I do, I will add the example and how it went in practice here`
-
 ## Public Narrative
 ### Why me? Why us? Why now?
 
@@ -158,7 +118,92 @@ I failed this task. This month I was deflated after my car was broken into, and 
 Instead I studied and reflected, considering exactly what questions to ask. I am now more confident and motivated to call each member before the next branch meeting.
 As a party in government, it's our time to push for the fairer future. Step one is finding out who we are, and what we think will make Geraldton fairer. When this is clarified, step two will be working to recruit those who practice our values and bring them into the branch, collaborating on tactics to achieve our goals, and show what we can do together. Each time we do this, we can achieve bigger and bigger things, of which election victory will be one.
 
-This, combined with a list of powers I have as treasurer, and questions I want to ask each member, were what I submitted for the next branch meeting. The ultimate end result gave purpose to my holiday, and a clear, motivational reason to work on the action that will push the party forward (Calling all members before the next meeting).
+This, combined with a list of powers I have as treasurer, and questions I want to ask each member, were what I submitted for the next branch meeting. The ultimate end result gave purpose to my holiday, and a clear, motivational reason to work on the action that will push the party forward (Calling all members before the next meeting).  
 
+I did all this on pen and paper as it slows down my writing, forcing me to think about sentences as I write them rather than jot down the top of my head. Pen also forces me to rewrite entire paragraphs when revising rather than make edits, encouraging me to rewrite entire sentences rather than just edit existing ones.
 
 </details>
+
+## Emotion, Values, Leadership 
+<!--Page 60-->
+ Decisions are based on value judgements which requires <mark>emotional information</mark>.
+- Some emotions `enable` intention, mindfulness, and urgency
+- some emotions `inhibit` intention, mindfulness, and agency.
+
+Leaders goal is enabling others to be `motivated` enough by a disruption to result in `action` and make that action ` mindful` not `reactionary`.
+
+Emotion, even negatives like anxiety, breaks habit. Consistency bias "It's always worked this way" and apathy "nothing we do works anyway" are disrupted by emotional shock.
+
+> EMOTION: MOTIVATES, BREAKS INERTIA, OVEROMES BIAS.
+
+### Urgency and Anger
+<!--Page 63-->
+
+The job of a leader in any movement is to activate people's need for urgent and intentional action, even when there is no apparent urgency and no clear conscious action.
+
+> this is done by pointing out contradictions in shared assumptions on how the world is, **agitation.**
+
+Urgency establishes **priorities**. The two types of urgency are:
+- URGENCY OF NEED: made when things are so bad that action is needed **now**
+- URGENCY OF OPPORTUNITY: Made with **deadlines**. when you need to do something by a certain time for it to have an effect.
+
+Anger counters Apathy and inertia via outrage.
+> The world as it is rubbing up against the world as it should be.
+
+Actions that cause outrage:
+- Domination
+- Discrimination
+- Bullying
+- Violation
+- Neglect  
+
+Regardless of how legitimate these actions appear to be, they will cause `outrage.`
+
+Percieved destruction of values, moral traditions, and dignity are sources of anger that can motivate action
+
+>`I have yet to really put these theories in action. If I do, I will add the example and how it went in practice here`
+
+## Strategy and Tactics
+<!--Page 90-->
+> "Power without love can never be just, but love without power can never achieve justice." - Paul Tillich
+
+**Strategy = Have --> Need --> Want**  
+
+This section is about Converting the resources you do have into the material that will get you what you want.
+
+There are two aspects to this: Strategy and Tactics.
+
+- `Strategy` --> **Theory of Change:** How to get from uncertainty to the point of winning.
+- `Tactics` --> **Art of Arrangement:** Translating theory into action. Action is only tactical if it intends to achieve a strategy.
+
+### Rhythm
+
+Rhythm is an important informer of how we `strategize`. How we harmonize the rhythms within and between ourselves, campaigns, and the world requires seeing both forests and trees.  
+`Strategy` gives us a good view of the forest, the big picture.  
+`Tactics` lets us learn the details, see the trees.  
+
+Thus to be effective at `Strategizing`, we need both intimate knowledge of the context and the capacity to put that context into context.
+
+### Learning to Strategize
+<!--Page 96-->
+
+>The Question of **`POWER`** is *Central*.
+
+Most important of all is understanding **the power of the people**
+- Their depth of commitment
+- Their Hope
+- Their readyness to sacrifice
+
+`Strategy` only exists in `Time`. What makes things important depends on outside circumstances. `Strategy` also depends on how others react to it.  
+Ultimately, strategy is `Dynamic`.
+
+- When a context is `fixed`, we can use tools like `Game Theory`. 
+- When a context is `emergent`, `ambiguous`, and `contested`, strategizing requires more flexible processes, `Imagination`.
+
+Strategy responds to immediate or anticipated disruption. `Stories` provide emotional resources needed, `Strategy` provides the way to think up a solution to achieve the goal.
+- Storytelling = Why
+- Strategizing = How
+
+All this requires who, when, and where we are. It requires specific resources, Specific Power.  
+
+**TLDR**: Strategy is `Intentional`, `Motivated`, `Proactive`, `Creative`, and `Nested`.
