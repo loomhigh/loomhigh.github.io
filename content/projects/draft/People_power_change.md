@@ -126,7 +126,7 @@ I did all this on pen and paper as it slows down my writing, forcing me to think
 
 ## Emotion, Values, Leadership 
 <!--Page 60-->
- Decisions are based on value judgements which requires <mark>emotional information</mark>.
+ Decisions are based on value judgements which requires `Emotional Information`.
 - Some emotions `enable` intention, mindfulness, and urgency
 - some emotions `inhibit` intention, mindfulness, and agency.
 
