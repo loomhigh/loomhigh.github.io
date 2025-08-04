@@ -207,3 +207,8 @@ Strategy responds to immediate or anticipated disruption. `Stories` provide emot
 All this requires who, when, and where we are. It requires specific resources, Specific Power.  
 
 **TLDR**: Strategy is `Intentional`, `Motivated`, `Proactive`, `Creative`, and `Nested`.
+
+### Nested Strategy
+<!--Page 99-->
+
+<img src="/static/misc/People_Power_Change-NestedStrategy.png" alt="Resources --> Outcome --> Outcome's Resources --> Larger Outcome"></a>
