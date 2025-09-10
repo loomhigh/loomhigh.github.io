@@ -9,4 +9,4 @@ One day I spent way too long figuring out how to simply make a can roll in blend
 <img href="/" src="/images/misc/ProductionCanroll.png" alt="instructions">
 
 ### Video tutorial:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XAevLI7RPHo?si=X1dsN_AmWGB0OD0j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/XAevLI7RPHo?si=X1dsN_AmWGB0OD0j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
