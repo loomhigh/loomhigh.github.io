@@ -1,5 +1,5 @@
 ---
-title: ## Vid: Stoicist wags schoolwork ##
+title: Vid: Stoicist wags schoolwork
 ---
 
 **Premise**

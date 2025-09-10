@@ -1,5 +1,5 @@
 ---
-title: ## William Napier Clark ##
+title: William Napier Clark
 ---
 William Napier Clark
 
