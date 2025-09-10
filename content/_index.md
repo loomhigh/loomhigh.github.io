@@ -29,3 +29,9 @@ I always have "Projects". Things I want to do. Most of it never gets done, at le
 I want to document how I did things with Linux as much as possible so that no one else has to suffer through the things I did. At the moment tutorials are sparse, but they will be coming.
 
 [Tutorials](/tutorials/_index.md)
+
+### Writings
+
+Contains my creative writing and any emotive pieces made, such as for motions and articles and such.
+
+[Writings](/writings/_index.md)
