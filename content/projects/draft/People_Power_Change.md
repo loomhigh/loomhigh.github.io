@@ -1,4 +1,5 @@
-People, Power, Change
+---
+title: notes from the book People, Power, Change
 ---
 > Summarizing all my notes and learning from the book "People, Power, Change" by Marshall Ganz. 
 

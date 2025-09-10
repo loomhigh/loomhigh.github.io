@@ -1,5 +1,6 @@
-## William Napier Clark ##
-
+---
+title: ## William Napier Clark ##
+---
 William Napier Clark
 
 James Stirling book: info on page 302

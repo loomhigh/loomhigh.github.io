@@ -1,3 +1,7 @@
+---
+title: Hannah Montanna Linux Script
+---
+
 Edit of Hannah montana Laptop in action
 Get drivers and mangohud working
 Film HMlinux in various places for benchmarks

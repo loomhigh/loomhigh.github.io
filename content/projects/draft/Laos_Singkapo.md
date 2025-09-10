@@ -1,5 +1,9 @@
-Laos and Singkapo
 ---
+title: Laos and Singkapo
+---
+
+Laos and Singkapo
+
 ## script ##
 
 My boots wore me down. Rumpside off my sole lay opened and raw, skinned pink and fresh from the roughly shapen heavy shoes. I didn’t mind. Walking the streets with hills in tumbling pain. Wincing at each step. It's the palest imitation, an exotic simulation of having grit. Such neuroticism forcloses the right to pain. 

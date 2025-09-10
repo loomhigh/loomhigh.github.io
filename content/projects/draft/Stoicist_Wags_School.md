@@ -1,4 +1,6 @@
-## Vid: Stoicist wags schoolwork ##
+---
+title: ## Vid: Stoicist wags schoolwork ##
+---
 
 **Premise**
 Stoicist uses their philosophy to justify not working on a group assignment.
