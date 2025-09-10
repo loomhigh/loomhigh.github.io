@@ -12,7 +12,7 @@
       {{ end }}
       -->
       <ul>
-        {{ range .paginate.Pages }}
+        {{ range .Paginator.Pages }}
         <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
         {{ end }}
       </ul>
