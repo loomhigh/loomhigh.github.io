@@ -12,7 +12,7 @@
       {{ end }}
       -->
       <ul>
-        {{ range .Pages.GroupByDate "January 2006" "desc" }}
+        {{ range .paginate.Pages }}
         <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
         {{ end }}
       </ul>
