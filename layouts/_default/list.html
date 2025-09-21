@@ -12,7 +12,7 @@
       {{ end }}
       -->
       <ul>
-        {{ range .Paginator.Pages }}
+        {{ range .Paginator.Pages.ByDate }}
         <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
         {{ end }}
       </ul>
