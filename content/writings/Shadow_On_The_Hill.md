@@ -3,6 +3,8 @@ title: 'Transcript: Shadow On The Hill'
 tags: [transcript]
 
 ---
+Transcript of the book "Shadow On The Hill" Transcription needs to be checked over.
+
 
  ## shadow Of the Hill ##
 **Colleen Heath | Chilla Bulbeck**
