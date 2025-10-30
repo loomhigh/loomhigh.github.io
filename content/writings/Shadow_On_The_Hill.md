@@ -1,7 +1,5 @@
 ---
-title: 'Transcript: Shadow On The Hill'
-tags: [transcript]
-
+title: Transcript: Shadow On The Hill
 ---
 Transcript of the book "Shadow On The Hill" Transcription needs to be checked over.
 
@@ -18,7 +16,7 @@ extraordinary events*
 
 ## acknowledgements ##
 
-Grateful acknowledgement is ade to the following for the use of some of the photographs appearing in this book Australian Iron and Steel Pty Ltd and the Battye Library of Western Australian History for the photographs appearing on pages 23 (27743P) and  25 (27744P) Mr Roger Garwood for the photographs on pages 27,28 and 82 Mr Doug White for the photographs on pages 40 and 43. Our thanks also go to Mr John Crowley of Mt Newman Mining's Public Affairs section, Kevron Aerial Survey Pty Ltd and Mr Victor France for their assistance.
+Grateful acknowledgement is made to the following for the use of some of the photographs appearing in this book Australian Iron and Steel Pty Ltd and the Battye Library of Western Australian History for the photographs appearing on pages 23 (27743P) and  25 (27744P) Mr Roger Garwood for the photographs on pages 27,28 and 82 Mr Doug White for the photographs on pages 40 and 43. Our thanks also go to Mr John Crowley of Mt Newman Mining's Public Affairs section, Kevron Aerial Survey Pty Ltd and Mr Victor France for their assistance.
 
 Fremantle Arts Centre Press recieved financial assistance from the Western Australian Arts Council, a statuatory authority of the government of Western Australia
 
