@@ -1,5 +1,5 @@
 ---
-title: Transcript: Shadow On The Hill
+title: Transcript of hadow On The Hill
 ---
 Transcript of the book "Shadow On The Hill" Transcription needs to be checked over.
 
