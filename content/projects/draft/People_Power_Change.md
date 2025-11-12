@@ -212,7 +212,7 @@ All this requires who, when, and where we are. It requires specific resources, S
 ### Nested Strategy
 <!--Page 99-->
 
-<img src="/static/misc/PPP_Nested_Strategy.svg" alt="Resources --> Outcome --> Outcome's Resources --> Larger Outcome"></a>
+<img href="/" src="/images/misc/PPP_Nested_Strategy.svg" alt="Resources --> Outcome --> Outcome's Resources --> Larger Outcome"></a>
   
   We cannot make global change immediately. We need to use our starting resources to achieve small goals before using gained resources from that achievement to achieve bigger goals.  
 
@@ -281,8 +281,8 @@ We can find who has the resources we need to win by making a "Power Map"
   
 ##### Power Map
 
-<img src="/static/misc/PPP_PowerMap.svg" alt="Venn Diagram showing all stakeholders in a campaign."></a>
-  
+<img href="/" src="/images/misc/PPP_PowerMap.svg" alt="Venn Diagram showing all stakeholders in a campaign."></a>
+
 Power maps are used to visualise who has and needs resource from and for whom.
 
 Make a guess about every relevant actor and what resource they have & need, along with their interests. Then, any observed interdependencies among actors. General groups to include are:
