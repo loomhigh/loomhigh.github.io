@@ -281,15 +281,145 @@ We can find who has the resources we need to win by making a "Power Map"
   
 ##### Power Map
 
-<img href="/" src="/images/misc/PPP_PowerMap.svg" alt="Venn Diagram showing all stakeholders in a campaign."></a>
+<img href="/" src="/images/misc/PPP_PowerMap.svg" alt="Power Map"></a>
 
 Power maps are used to visualise who has and needs resource from and for whom.
 
-Make a guess about every relevant actor and what resource they have & need, along with their interests. Then, any observed interdependencies among actors. General groups to include are:
+Make a guess about every relevant actor and what resource they have & need, along with their interests. Then, any observed interdependencies among actors. General groups to include are:  
+- Constituency: The people who both feel the need for change and who have the resources that can help build that change.  
+- Leadership: Part of constituency that forms the leadership, can be part of other circles too.  
+- Opposition: Groups who don't want the change, where there is a conflicting interest.  
+- Allies and competitors: Are groups that may help or compete with a constituency and may need to be won over or lulled.  
+- Legal System: Courts. Where does the law and its agents stand with the cause?  
+- Media: Who has mass attention and what are their needs? Never do things for the press, simply make windows for them to observe.  
+
+##### The THREE Faces of Power
+  
+  Who is benefitting, who is losing, how this fits into everything.
+  
+#### Question 4: What is their strategic Goal?
+  
+After Analysis, when a good theory of change is made, we make goals based on that theory.  
+
+Example: When looking at filling basic needs of workers like dignity and security, the resources could be found in themselves and addressed with actions like forming a credit union, but bigger issues like wages and conditions was in employers control. Employers needs was a stable workforce and profit. The workers control over their labour, and connections, which could be used to reduce stability and profit of employers via strikes and pushing boycots, until the cost of better wages and conditions is less than workers actions.
+
+Strategic goals may emerge during another goal being actioned.  
+
+##### 5 features of an effective strategic goal
+
+- focus what you have on a single outcome that enables greater outcomes (nested)
+- Makes use of constituents own inherent resources
+- Uses constituencies strength against oppositions weakness.
+- Visible, significant, and important enough to motivate
+- is contagious and can be emulated.
+
+Strategic goals are critical parts of the story of NOW!
+
+#### Question 5: What tactics can they use?
+  
+``Tactics convert theories of change into activities. ``
+  
+Turning a list of activities into tactics involves assessing how effective they are in your strategy:
+- How it make the most of your own resources.
+- How well your constituency makes use of it.
+- ability to unify constituency and divide opposition.
+- How fun, motivating, and simple it is.
+  
+Examples: A march will make good use of resources, and calling it a pilgrimage will make it more appealing and motivating if the constituency is full of people of faith.
+  
+Many smaller activities can be organised simultaneously if they are assessed to integrate well into the overall strategy, that is what makes them tactics!
+  
+#### Question 6: What about timing?
+  
+Campaigns operate with `Time` as an `Arrow`.  
+Organisations operate with `Time` as a `Cycle`.
+  
+Campaigns internally are an arrow, but need to operate with `Temporal Strategy`, they need to work with the <code style="color : darkgreen">Rhythms</code> of their contexts (seasons, work days, holidays, etc).
+  
+Momentum requires you to produce an action who's reaction you know how to respond to. `Initiative`!  
+You must also ensure one action leads to the next, and doesn't end until then.
+
+Ensure you are always `doing something`, at a time `when it matters`, and in a way that lines up with the next action.
+
+## Action!
+<!-- Page 123 -->
+`` If you can't count it, it didn't happen!``
+  
+#### Action Questions
+  
+You need to ask yourself what your specific goal is, why that goal is important, and what you can gleam from those numbers.  
+Ask why a result is considered good or bad, and find patterns in the whole. No guess, no estimate, conclusion. 
+<code style="color : darkblue">Elections</code> are won with <code style="color : darkred">Votes</code>, which are won by <code style="color : darkred">Commitments</code>, which are won by learning every voters <code style="color : darkgreen">Story</code>.  
+  `Head = Tactic`  
+  `Heart = Strategy`  
+  `Hands = Action`  
+
+#### Resources  
+Good organiseing does NOT focus on fundraising and resources outside constituency, this corrupts the power of the people.  
+You must motivate people to commit to a shared purpose, turning into collective action, becoming power.
+
+### What is Action?
+<!--Page 126-->
+`The mobilisation and deployment of resources`
+  
+Examples include:
+- Voters in a ballot
+- People at a rally
+- Union Contract signed
+- Legislation passed
+- Houses Built
+
+#### Resource Mobilization
+
+`The gathering of resources from mostly people`
+
+How resources are mobilised affects how they are deployed.
+
+#### Resource Deployment
+  
+`Spending or investing of resources`
+
+How resources are deployed affects how they can be mobilised.
+
+#### Economic and Moral Resources
+  
+- `Economic Resources` Deplete with use.
+  - Like Money
+- `Moral Resources` Grow with use.
+  - Like commitments.
+  - Like Skills.
+
+<img href="/" src="/images/misc/PPP_Action.svg" alt="Action flowchart"></a>
+
+Those fighting against the status quo have less economic and political resources, so they need to rely on commitments and skill.
+  
+### Sourcing Resources
+<!--Page 127-->
+  
+#### Beating the Opponent
+  
+The status quo has significantly more resources economically and politically than people who challenge it.  
+This is combatted by relying on people to build the resources needed to win, using people's time, knowledge, skill, etc, to win using tactics that optimise for that.
+
+`You will fight bigger foes with bigger gold, use people and growth to beat them.`
+  
+#### Outside Money
+  
+- Sourcing money outside of your constituency needs to be considered.
+  - Funds from Unions who are ideologically aligned with the people and enfranchising foundations ensure leaders and those with power over a movement are aligned with the constituency.
+  - Funds from ultra-rich individuals or businesses without alignment with constituency gives power of the movement away from its purpose.
+
+#### Focus on the constituency
+  
+There are multiple reasons to use the constituency for support.  
+- Guaranteed alignment with goals
+- Develops capacity of constituency
+  - Builds local leaders
+  - Fosters Collaboration
+  - Ensures mobilization
+- Prevents the trap of seeking <code style="color : darkred">Ownership</code> over <code style="color : darkgreen">Citizenship</code>.  
+
+#### Inside/Outside Constituency
 
 
-
-
-
-
-
+<img href="/" src="/images/misc/PPP_InsideOutsideResources.drawio.svg" alt="Action flowchart"></a>
