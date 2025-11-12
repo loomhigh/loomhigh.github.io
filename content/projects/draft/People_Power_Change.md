@@ -212,4 +212,84 @@ All this requires who, when, and where we are. It requires specific resources, S
 ### Nested Strategy
 <!--Page 99-->
 
-<img src="/static/misc/People_Power_Change-NestedStrategy.png" alt="Resources --> Outcome --> Outcome's Resources --> Larger Outcome"></a>
+<img src="/static/misc/PPP_Nested_Strategy.svg" alt="Resources --> Outcome --> Outcome's Resources --> Larger Outcome"></a>
+  
+  We cannot make global change immediately. We need to use our starting resources to achieve small goals before using gained resources from that achievement to achieve bigger goals.  
+
+  > Example: if our big goal is to be carbon neutral by 2030, we can start by getting the local council to make a small commitment, say to open a tip shop.    
+  > The widsom and resources gained from that venture can then be used to push other cities to adopt climate friendly policies, and/or push the local government to implement even stronger policies.   
+  > With influence over multiple cities, you now have a statewide organisation that can achieve even bigger goals, such as endorsing and campaigning for a preferred candidate to bring your issues on the state and federal level.
+  
+Scale and scope does not impact the way strategizing is done. Goals both unimaginably large and significantly humble involve the same process.
+
+### Who, When, How: Strategizing.
+<!-- Page 100 -->
+  
+#### Who
+  
+- Who makes strategy matters. For good strategy to work, it needs to be doable by the people implementing it.  
+
+- Strategizing requires a combo of insider and outsider perspectives  
+ 
+- Strategizers need to be motivated individuals. Those disaffected with how things are think harder about how to change them.  
+   
+- Strategy uses teams. Teams of diversely connected people have higher creative potential.  
+
+#### How  
+
+Critically reflected assumptions --> Test with experience --> With evidence --> Others perceptions --> Internal contradictions  
+
+Clarity of facts requires agitation, and requires mutual respect within a trusted team, where different views can cause conflict.
+  
+#### When  
+
+Plan a target to start with, review at the halfway point, and reogranize at the endgame. Mostly action comes from response to others. After Action reports, too!  
+
+### Strategy: The six Question
+<!-- Page 104 -->
+
+Used as an adaptable roadmap rather than a solid plan, strategic process can be framed by six questions.  
+1. Who are my people?
+2. What is the change they want?
+3. What is their theory of change?
+4. What is their strategic goal?
+5. What tactics can we use?
+6. What is the timing?
+
+#### Question 1: Who are my People?
+
+Know who you fight for and ensure they fight for themselves. If people are benefitting themselves, they will use their resources more effectively.  
+Use their lived experience of the issue to frame the solution to the problem.  
+Who is the core constituence and who are the outside supporters?  
+
+#### Question 2: What change is Wanted?
+
+What do people experience as <code style="color : darkred">The Problem</code>? How do things change if we solve <code style="color : darkred">The Problem</code>? Why isn't it <code style="color : darkgreen">Solved</code>? What does it take to <code style="color : darkgreen">Solve</code>?  
+
+Sometimes wanted change is only part of needed change. Knowing for example that the issue is institutional racism, doesn't fix things, but fighting against bus segregation is doable, and can lead to further reform.
+
+#### Question 3: What is their theory of change?
+  
+How do those involved think change occurs? People might think different things will solve their problem, like more education, better data, harder work, etc.  
+We must have a good, mutual understanding of how change happens. A good theory to work towards is a "power" theory of change, which goes like:
+1. If we use our reources in a certain way...
+2. We can impact the needs of those who's resources we want...
+3. This impact will be harder on them than denying those resources...
+4. We get the resources we need to win.
+  
+We can find who has the resources we need to win by making a "Power Map"
+  
+##### Power Map
+
+<img src="/static/misc/PPP_PowerMap.svg" alt="Venn Diagram showing all stakeholders in a campaign."></a>
+  
+Power maps are used to visualise who has and needs resource from and for whom.
+
+Make a guess about every relevant actor and what resource they have & need, along with their interests. Then, any observed interdependencies among actors. General groups to include are:
+
+
+
+
+
+
+
