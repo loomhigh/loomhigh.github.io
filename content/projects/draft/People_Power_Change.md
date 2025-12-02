@@ -421,5 +421,4 @@ There are multiple reasons to use the constituency for support.
 
 #### Inside/Outside Constituency
 
-
 <img href="/" src="/images/misc/PPP_InsideOutsideResources.drawio.svg" alt="Action flowchart"></a>
