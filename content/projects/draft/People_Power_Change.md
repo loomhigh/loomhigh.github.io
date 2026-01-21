@@ -422,3 +422,105 @@ There are multiple reasons to use the constituency for support.
 #### Inside/Outside Constituency
 
 <img href="/" src="/images/misc/PPP_InsideOutsideResources.drawio.svg" alt="Action flowchart"></a>
+  
+Regardless of how resources are deployed, the base, or "centre of gravity" lays within a quandrant. 
+- Inside Money: Empowers, is accountable to, and aligns with the constituency.
+- Inside People: Also Empowers, is accountable to, and aligns with the constituency.
+- Outside Money: Disempowered constituency, accountable to funders, tactics become funder dependent. 
+- Outside People: Also disempowers constituency.
+
+#### Optimised deployment
+The best way to deploy resources requires you do distinquish between deployment that leads to growth, and that which will drain.
+  
+For Example:
+- Building a union results in more members and thus more resources.
+  - This is an example of organising.
+- Using a grant to complete action results in the grant money being spent.
+  - This is an example of mobilizing.
+
+#### Summary
+
+The effects of deployed resources, whether they empower or disempower a community, or what it depends on to work, can be plotted in an inside/outside & money/people quadrant. Ensure actions empower and grow a constituency wherever possible. ``Inside action empowers. Action depends on either money or people.``
+
+### Motivation & Commitment
+
+Dividing responsibility gives everyone a stake, narrow responsibility burns those out and lays all blame on them.
+
+#### Motivation as a resource
+The more a movement depends on people, the more vital sustaining motivation and commitment becomes.  
+Examples of unsustained motivation:
+- New Volunteers show up once and not again.
+- One person you depend on is away, and you can't replace them.
+- People aren't doing their job without being asked.
+  
+The solution? Design intrinsically motivating work. A well designed task can be readily ticked off.
+
+#### The process of taskmaking
+  
+Strategizing starts with an outcome to be achieved by a time. We then organise ways to achieve that outcome. These ways require us to have people pledge an action like showing up, or voting. This pledge is what we need from them to achieve our outcome, not what they feel they can do.  
+  
+The solution? Match the needs of the campaign with the needs of the people.
+
+#### Example
+  
+We need 60 people, 20 from 3 city districts, to rock up at a council meeting. Rather than broadcasting a request, call invidivuals, get their word to come, and get them to ask specific people they know to come.
+
+#### Summary: How we maintain motivation and commitment.
+  
+  Motivation is vital to a people's movement. It is maintained by making a task motivating. Getting commitments requires having pledges required to match the actions people are willing to take. ``Getting people to emphatically act``
+
+### Motivation
+<!--Page 131-->
+
+#### The Valuable Ask
+  
+Getting people to follow through on commitments isn't done by making easy requests, but by making requests that are valuable, that are clearly seen as important.
+  
+People don't commit to things because it is easy, but becayse they think it will make a difference.
+
+#### Commitments generate more commitments
+  
+If someone puts skin in the game, they have more desire to see their work succeed, and so will be more likely to make commitments.
+
+This is called ```Consistency Theory``` Once we commit to an  idea, we will make future decisions that are consistent with that idea. 
+
+#### Building momentum
+- Moral Resources grow with use
+- Economic Resources deplete with use.
+
+This means we can start building commitments on small actions like boycotts, and get people to make bigger and bigger commitments, as long as all those commitments are valuable.
+
+#### Multiple Points of Entry
+
+Good campaigns have multiple levels of commitments, people can contribute as little as a boycott or as much as full time commitment. This gives a great opportunity to widen the pool of people who considers themselves supporters, and are likely to consider greater commitments.
+
+### Summary: Levels of commitment that create a useful machine of motivation.
+  
+We need to base out commitment requests on what is valuable to the cause, and use varying levels of commitment roles to build people's willingness to further their commitments. ``Make all commitments valuable, use levels of commitment to build moral resources, and widen supporter base``
+
+### Motivation: Continued
+  <!--Page 133-->
+
+#### Motivational Task Design
+<!--Richard Hackman-->
+
+Motivational task design is making activities that are self-motivating and don't need external rewards for motivation.
+  
+Benefits of motivational task design:
+ - People will feel purpose and responsibility.
+ - People will better understand their works results.
+
+ #### Creating motivational tasks
+ we will need:
+ - Task Significance: Does tje tasl ,atter amd does the tasker feel that importance?
+ - Task Identity: Is the contribution of the person clear in the resulting outcome?
+ - Skill Variety: Are a variety of the taskers skills used, including Heart, Hands, & Head.
+ - Autonomy: Does the tasker get a chance to ake their own decisions.
+ - Feedback: Are results visible to the tasker while they are tasking?
+ 
+
+<img href="/" src="/images/misc/PPP_Motivational_Task_Design.svg" alt="Motivational Task Design Chart"></a>
+  
+#### Summary: How to make tasks that are motivating.
+  
+Creating Motivational tasks ivolve intrinsically rewarding activities that engage the variety of persons skill in a clearly significant activity where resultss are clear, and autonomy accepted. ``Give people stake in the project with their tasks``
