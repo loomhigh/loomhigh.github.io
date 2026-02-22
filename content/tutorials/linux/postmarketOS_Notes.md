@@ -122,13 +122,25 @@ The command uses echo and getprop commands to format and grab the right info fro
     - NOTES: Chipped but functioning screen
 
 - Samsung Galaxy S7
-    - VENDOR: Samsung
-    - CODENAME: samsung-herolte
-    - ARCITECTURE: arm64v8
-    - TYPE: handset
-    - SD_CARD: YES
-    - FLASH_METHOD: [TOTEST]
-    - NOTES: *sniff* *sniff* I used to use this phone before the shutdown.
+| manufacturer = samsung
+| name = Galaxy S7
+| codename = samsung-herolte
+| image = 
+| imagecaption = image of a SM-G930F
+| releaseyear = 
+| originalsoftware = Android
+| originalversion = 
+| extendedversion = 6.0.1
+| chipset = exynos8890
+| cpu = cortex-a53
+| gpu = 
+| storage = 
+| display =
+| memory = 
+| architecture = arm64-v8a
+| type = handset
+| category = 
+| pmoskernel =
 
 - thorn thot61
     - VENDOR: Thorn
@@ -198,3 +210,24 @@ NOTES: uses old charger
     - SD_CARD: YES
     - FLASH_METHOD:
     - NOTES:
+
+| manufacturer = alps
+| name = 
+| codename = alps-8227L_demo
+| image = 
+| imagecaption = image of a 8227L_demo
+| releaseyear = 
+| originalsoftware = Android
+| originalversion = 
+| extendedversion = 10
+| chipset = 
+| cpu = cortex-a7
+| gpu = 
+| storage = 
+| display =
+| memory = 
+| architecture = armeabi-v7a
+| type = car
+| category = 
+| pmoskernel =
+NOTES: my android auto car
