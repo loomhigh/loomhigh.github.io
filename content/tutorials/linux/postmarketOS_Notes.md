@@ -231,3 +231,23 @@ NOTES: uses old charger
 | category = 
 | pmoskernel =
 NOTES: my android auto car
+
+| manufacturer = samsung
+| name = SM-T800
+| codename = samsung-chagallwifi
+| image = 
+| imagecaption = image of a SM-T800
+| releaseyear = 
+| originalsoftware = Android
+| originalversion = 
+| extendedversion = 6.0.1
+| chipset = exynos5420
+| cpu = cortex-a15
+| gpu = 
+| storage = 16GB
+| display =
+| memory = 3GB
+| architecture = armv7
+| type = tablet
+| category = 
+| pmoskernel =
